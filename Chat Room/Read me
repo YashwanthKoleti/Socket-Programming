@@ -1,0 +1,4 @@
+I made a chat room one with AES encryption and one with RSA encryption
+
+1. In AES encryption , we consider both the persons who are cahtting knows the Key and Nonce
+2. In RSA I considered , Person 1 know Public Key of person 2 and vise versa
